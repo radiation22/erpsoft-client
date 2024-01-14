@@ -1,0 +1,7 @@
+.package {
+    background: -webkit-linear-gradient(#07A3E1, #1E1740);
+    background: -o-linear-gradient(#07A3E1, #1E1740);
+    background: -moz-linear-gradient(#07A3E1, #1E1740);
+    background: linear-gradient(#07A3E1, #1E1740);
+    box-shadow: rgba(39, 159, 238, 0.16) 0px 3px 6px, rgba(35, 201, 223, 0.623) 0px 3px 6px;
+}

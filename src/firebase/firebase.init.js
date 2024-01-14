@@ -5,12 +5,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBjoyHAtzhz6UZ44bHqoDRJMruA1fdOvDo",
-  authDomain: "nirapode-bd7eb.firebaseapp.com",
-  projectId: "nirapode-bd7eb",
-  storageBucket: "nirapode-bd7eb.appspot.com",
-  messagingSenderId: "1057579763819",
-  appId: "1:1057579763819:web:686433caa47d57ab91892e",
+  apiKey: "AIzaSyAk83dcce8RRhx2wFDBQs-n5NibmZEoYS8",
+  authDomain: "erp-software-c09f3.firebaseapp.com",
+  projectId: "erp-software-c09f3",
+  storageBucket: "erp-software-c09f3.appspot.com",
+  messagingSenderId: "696977631628",
+  appId: "1:696977631628:web:643f5d350640c59f5d8ea9",
 };
 
 // Initialize Firebase
