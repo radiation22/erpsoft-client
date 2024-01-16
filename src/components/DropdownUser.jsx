@@ -59,7 +59,7 @@ const DropdownUser = () => {
         to="#"
       >
         <span className="hidden text-right lg:block"></span>
-
+        <p className="text-white">{user?.displayName}</p>
         <FaRegUserCircle className="text-white text-3xl" />
 
         <svg
